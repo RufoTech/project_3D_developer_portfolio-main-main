@@ -19,7 +19,7 @@ body::-webkit-scrollbar {
 /* Neon Cursor */
 .neon-cursor {
   position: absolute;
-  width: 20px; /* İmleç genişliği */
+  width: 20px; /* İmleç genişliğij */
   height: 20px; /* İmleç yüksekliği */
   background: linear-gradient(135deg, #ff0055, #00ffea, #00ff55, #ffea00); /* RGB renk geçişi */
   border-radius: 50%; /* Yuvarlak imleç */
